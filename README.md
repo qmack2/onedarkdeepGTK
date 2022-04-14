@@ -1,6 +1,10 @@
 # One Dark Deep GTK
 **One Dark Deep GTK and icon theme for the colour pallet provided by [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)**. The icons are a variation on the Papirus icons.
 
+# Screenshot
+Basic screenshot of the theme and some icons:
+![](/screenshots/pic.png)
+
 # Installation
 First, clone this repository. Then to install
 - Locally:
